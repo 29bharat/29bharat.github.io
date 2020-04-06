@@ -22,6 +22,6 @@ plots.js from the module
   
 ## Steps
   
-Plots.js has been updated to display all the demographic info for the ID selected. It has also been updated to plot the bar chart as well as the bubble chart for the OTU's.
+Plots.js has been updated to display all the demographic info for the ID selected. It has also been updated to plot the bar chart as well as the bubble chart for the OTU's. Whenever a different ID is selected from the dropdown, the demo info as well as teh charts show the data for that ID.
   
 Plot.js has also been updated to display the first ID(940) by default when the page is accessed.
